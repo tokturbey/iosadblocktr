@@ -8,6 +8,9 @@
 saglikaktuel.com##.banner.side_banner
 saglikaktuel.com##.banner_code
 saglikaktuel.com##.side_content
+sw1block.com/*
+sw2block.com/*
+sw3block.com/*
 !
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
