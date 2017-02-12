@@ -1,10 +1,8 @@
-[Adblock Plus 2.0]
+[Adblock]
 ! Checksum: a7bf986b74ed206e39ea2cc5ce10c3dd 
-! Title: yuuksel ios tr adblock list
-! Updated: 12 Feb 2017
-! This list expires after 500 days
-! License: http://creativecommons.org/licenses/by/3.0/
-! Email: yuuksel@hotmail.com
+! yuuksel ios tr adblock list
+! 15 Cemaziyelevvel 1438 12 Feb 2017
+! yuuksel@hotmail.com
 !
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
