@@ -11,6 +11,7 @@ saglikaktuel.com##.side_content
 sw1block.com/*
 sw2block.com/*
 sw3block.com/*
+saglikaktuel.com/foto-galeri/*
 !
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
