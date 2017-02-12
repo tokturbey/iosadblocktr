@@ -1,0 +1,1891 @@
+[Adblock Plus 2.0]
+! Checksum: a7bf986b74ed206e39ea2cc5ce10c3dd 
+! Title: yuuksel ios tr adblock list
+! Updated: 12 Feb 2017
+! This list expires after 500 days
+! License: http://creativecommons.org/licenses/by/3.0/
+! Email: yuuksel@hotmail.com
+! Homepage: yuuksel@hotmail.com
+! Forums: yuuksel@hotmail.com
+!
+yeniakit.com.tr###masthead-outer
+dirilispostasi.com###owl-ustmanset
+dirilispostasi.com###main-header
+habervaktim.com##.banner.wide_banner
+habervaktim.com##.base_top.base_position
+yeniakit.com.tr##.mastheadVid_container
+yeniakit.com.tr##.news-detail-cuff
+facebook.com###u_0_4n
+yeniakit.com.tr###pageskin
+yeniakit.com.tr###header
+yeniakit.com.tr##.new-carousel-outer
+yeniakit.com.tr##DIV[style="text-align:center;"]
+yeryuzuhaber.com##.site-wrap-header
+haber7.com###top-bar
+haber7.com###top-headline
+gunes.com###masthead-wrapper
+gunes.com##.header
+haberseyret.com##.relatedNews
+haberseyret.com##.span4
+haberseyret.com##HEADER
+haber7.com###fixed-right-box
+ekonomi.haber7.com##.slide-link
+||media.dunyabulteni.net/banner/*
+||cdn.yeniakit.com.tr/images/banner/*
+||iys.turkmedya.com.tr/gorseller/yazarfotos/*
+||timeturk.com/reklamlar/*
+||yenisoz.com.tr/reklamlar/*
+!-------------------------------------------------------------------
+gunes.com##.header_top
+gunes.com###header-menu-wrapper
+habervaktim.com##.base_top.base_position
+habervaktim.com##.top_headline.base_position
+habervaktim.com###top_headline_2
+habervaktim.com##.top_headline_2.base_position
+habervaktim.com##.content_view.tab_red
+habervaktim.com###headline_side
+habervaktim.com##.headline_side
+haberseyret.com###owlHeaderust
+haberseyret.com##.owl-carousel.owlG.owl-theme
+haberseyret.com###navArrows
+haberseyret.com##.navArrows
+haberseyret.com##.top-strip
+haberseyret.com###b-news
+yenisoz.com.tr##.header-content
+yenisoz.com.tr###main-nav
+yenisoz.com.tr##.fixed-enabled
+yenisoz.com.tr###breaking-news
+yenisoz.com.tr##.breaking-news
+yenisoz.com.tr###top-nav
+yenisoz.com.tr##.top-nav
+yeryuzuhaber.com##.site-wrap-header
+yeryuzuhaber.com###sondakika-ticker
+yeryuzuhaber.com##.header
+yeryuzuhaber.com##.surmanset
+yeryuzuhaber.com##.w-990.fl.mansetustu
+yeryuzuhaber.com###refresh
+yeryuzuhaber.com###weather
+haberseyret.com##.base_top
+haberseyret.com##.red
+haberseyret.com##.nav
+haberseyret.com##.search
+haberseyret.com##.navbar-inner
+haberseyret.com##.logo-container
+haberseyret.com##.breaking-news
+dunyabulteni.com###htop
+dunyabulteni.com##.largeKutu
+dunyabulteni.com##.ustbant
+msn.com##.infopane-placeholder
+yeniakit.com.tr##.mastheadVid_container
+yeniakit.com.tr###header
+yeniakit.com.tr##.new-carousel-inside
+dirilispostasi.com##.owl-wrapper
+habervaktim.com##.right
+habervaktim.com##.left
+habervaktim.com##.base_outer.clearfix
+timeturk.com##.ust2
+timeturk.com##.ust22.gizle728
+timeturk.com##.ust1
+timeturk.com##.ust3
+haberseyret.com##.bg-color.breadcrumbs
+yenidunyagundemi.com###header
+yenidunyagundemi.com##.header_1
+yenidunyagundemi.com##.carousel.ui-carousel
+yenidunyagundemi.com###slider
+yenidunyagundemi.com##.ustmanset8
+gunes.com###masthead-wrapper
+karar.com##.nofl.box
+cydiaplus.com###fanbox
+||media.dunyabulteni.net/banner/*
+||yenisoz.com.tr/reklamlar/*
+||habervaktim.com/d/news/799610.jpg
+||timeturk.com/reklamlar/*
+||habervaktim.com/d/news/799875.jpg
+||habervaktim.com/d/news/800333.jpg
+||haberseyret.com/upload/diger/haberseyret.png
+||img-s-msn-com.akamaized.net/tenant/amp/entityid/AAlueEI.img?h=368&w=622&m=6&q=60&u=t&o=t&l=f&f=jpg
+||cdn.yeniakit.com.tr/images/banner/
+||cdn.yeniakit.com.tr/images/assets/images/logo/logo_20140609064231.jpg
+||dirilispostasi.com/images/news/bh_dirilis-postasi-okurlari-kuduse-gidiyor-1477172564.jpg?v=1477323587
+||google.com.tr/logos/doodles/*
+||google.com.tr/logos/doodles/2016/*
+||tbmm.gov.tr/v2_img/header.jpg
+http://www.yeniakit.com.tr/ads/*
+||yeniakit.com.tr/ads/*
+http://applybau.com/
+http://applybau.com/*
+https://www.yeniakit.com.tr/ads/*
+||habervaktim.com/d/news/806613.jpg
+||facebook.com/plugins/likebox.php?href=https://www.facebook.com/cydiaplus&width=402&height=255&colorscheme=light&show_faces=true&show_border=false&stream=false&header=false
+!-------------------------------------------------------------------
+/pagead2.
+@@||twimg.com^$image,third-party
+.com/ad/$~image,third-party,domain=~mediaplex.com
+.com/ad?
+.com/ads/$image,object,subdocument
+.com/adx/
+.net/ad/$~object-subrequest
+.openx.
+/adbar.
+/adframe.
+/ads.php
+/adsense/*
+/adserver.
+/advert.
+/banner/468
+/beacon/ads?
+/dcloadads/*
+/googleads.
+/images/ads/*
+/pagead/conversion.
+/pubads.
+/pushdownAd.
+/reklam.
+/reklam/*
+/securepubads.
+/show_ads_
+/showad.
+?bannerid=
+-160x600.
+/300x250_
+/728x90-
+_160x600.
+_728_90.
+_728x90px.
+###adzone-mpu_1
+###adzone-wallpaper
+###bottomads
+###watch7-sidebar-ads
+##.ad-728-90
+##.ad_box
+##.ads-left
+##.ads-right
+##.adsbygoogle
+##.adslot_1
+##.afs_ads
+##.bottom-ad
+##.eng_ads
+##.masthead-ads
+##.reklam
+##.text_ads
+##.video-ads
+##.ytp-ad-progress-list
+##a[href^="http://adserver.adtech.de/"]
+##div[id^="div-gpt-ad"]
+||2mdn.net^$~object-subrequest,third-party
+||ad.doubleclick.net^$~object-subrequest,third-party
+||adform.net^$third-party
+||bbelements.com^$third-party
+||doubleclick.net^$third-party,domain=3news.co.nz|92q.com|abc-7.com|addictinggames.com|allbusiness.com|bizjournals.com|bloomberg.com|bnn.ca|boom92houston.com|boom945.com|boomphilly.com|break.com|cbc.ca|cbs19.tv|cbs3springfield.com|cbslocal.com|complex.com|dailymail.co.uk|darkhorizons.com|doubleviking.com|euronews.com|extratv.com|fandango.com|fox19.com|fox5vegas.com|gorillanation.com|hawaiinewsnow.com|hellobeautiful.com|hiphopnc.com|hot1041stl.com|hothiphopdetroit.com|hotspotatl.com|hulu.com|imdb.com|indiatimes.com|indyhiphop.com|ipowerrichmond.com|joblo.com|kcra.com|kctv5.com|ketv.com|koat.com|koco.com|kolotv.com|kpho.com|kptv.com|ksat.com|ksbw.com|ksfy.com|ksl.com|kypost.com|kysdc.com|live5news.com|livestation.com|livestream.com|metro.us|metronews.ca|miamiherald.com|my9nj.com|myboom1029.com|mycolumbuspower.com|nbcrightnow.com|neatorama.com|necn.com|neopets.com|news.com.au|news4jax.com|newsone.com|nintendoeverything.com|oldschoolcincy.com|pagesuite-professional.co.uk|pandora.com|play.it|player.theplatform.com|radio.com|radionowindy.com|rottentomatoes.com|sbsun.com|shacknews.com|sk-gaming.com|ted.com|thebeatdfw.com|theboxhouston.com|theglobeandmail.com|timesnow.tv|tv2.no|twitch.tv|ustream.tv|wapt.com|washingtonpost.com|wate.com|wbaltv.com|wcvb.com|wdrb.com|wdsu.com|wflx.com|wfmz.com|wfsb.com|wgal.com|whdh.com|wired.com|wisn.com|wiznation.com|wlky.com|wlns.com|wlwt.com|wmur.com|wnem.com|wowt.com|wral.com|wsj.com|wsmv.com|wsvn.com|wtae.com|wthr.com|wxii12.com|wyff4.com|yahoo.com|youtube-nocookie.com|youtube.com|zhiphopcleveland.com
+||effectivemeasure.net^$third-party
+||imasdk.googleapis.com^$third-party
+||liverail.com^$~object-subrequest,third-party
+||oclasrv.com^$third-party
+||partner.googleadservices.com^$third-party
+||postrelease.com^$third-party
+||revsci.net^$third-party
+||sharethrough.com^$third-party
+||teads.tv^$third-party
+||tidaltv.com^$third-party
+||weborama.fr^$third-party
+||adhood.com^$third-party
+||cas.criteo.com^$third-party
+||entitlements.jwplayer.com^$third-party
+||google.com/pagead/
+||static.criteo.com/images^$third-party
+|https://$script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
+@@/wp-content/plugins/akismet/*$script,~third-party
+@@||ajax.cloudflare.com/cdn-cgi/nexp/$script,third-party
+@@||google.com/jsapi$script,third-party
+@@||google.com/recaptcha/$script
+@@||gravatar.com/avatar$image,third-party
+@@||p.jwpcdn.com^$script,third-party
+@@||ytimg.com/yts/jsbin/$script
+euronews.com##.base-leaderboard
+@@||g.doubleclick.net/crossdomain.xml$object-subrequest,domain=~filmon.tv|~newgrounds.com
+@@||icons.iconarchive.com/icons/$image
+@@||imasdk.googleapis.com/flash/core/3.*/adsapi.swf$object-subrequest
+@@||imasdk.googleapis.com/flash/sdkloader/adsapi_3.swf$object-subrequest
+@@||liverail.com/js/LiveRail.AdManager$script,domain=~bluray-disc.de
+@@||tidaltv.com/crossdomain.xml$object-subrequest,domain=~channel4.com
+@@||upload.wikimedia.org/wikipedia/
+@@||gannett-cdn.com/uxstatic/$script,domain=usatoday.com
+@@||jpost.com/JavaScript/ads.js?
+@@||google.com/recaptcha/$image
+@@||gstatic.com/recaptcha/$script
+.ads1-
+.adsense.
+.com/ad.$domain=~ad-tuning.de
+.com/ads.
+.org/ad/
+/ad/loaders/*
+/adman.
+/adprovider.
+/ads?id=
+/advertisements/*
+/adyoulike.
+/assets/ads/*
+/AttractiveAds/*
+/googlead.
+/includes/ads/*
+/js/ads.
+/js/adv/*
+/nativeads/*
+/navigation/ad/*
+/pagead/lvz?
+/popunder2.
+://affiliates.$third-party
+_ads/js/
+/160x600.
+/300x250.
+/728.html$subdocument
+_120x600px.
+_300x250_
+###ad-header
+###ad-header-left
+###ad-header-right
+###ad-leaderboard
+###advertorial
+###adzone-halfpage_1
+###adzone-parallax_1
+###adzone-teads
+###footer-ads
+###gnadww
+###mpu2
+###pagelet_side_ads
+###sticky-ad
+###taboola-below-article-thumbnails-3rd
+##.Ads_4
+##.ad-banner
+##.ad-box-container
+##.ad-div
+##.ad-hideable
+##.ad-horizontal
+##.ad-item
+##.ad-label
+##.ad-leaderboard
+##.ad-leaderboard-container
+##.ad-mpu
+##.ad-v2
+##.ad300
+##.adSense
+##.adUnit
+##.ad_unit
+##.ads-2
+##.ads-3
+##.ads-block
+##.ads-box
+##.ads_middle
+##.adsbox
+##.adslot
+##.advert--leaderboard
+##.advert--mpu
+##.article-footer__ads
+##.content-ad
+##.footer-ads
+##.general_banner_ad
+##.ggl_ads_row
+##.header-ad
+##.hm_top_right_google_ads
+##.ib-adv
+##.market-ad
+##.masthead-ad-control
+##.native-ad-item
+##.pb-f-ad-flex
+##.plainAd
+##.player-leaderboard-ad-wrapper
+##.td-header-sp-ads
+##.top-banner-ad-container
+##.topAdvert
+##.trb_gptAd
+##.trb_masthead_adBanner
+##a[href^="http://bs.serving-sys.com/"]
+##a[href^="https://ad.doubleclick.net/"]
+##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"]
+##div[id^="dfp-ad-"]
+###tads.c
+||adnxs.com^$third-party
+||adocean.pl^$third-party
+||adtech.de^$third-party
+||amazon-adsystem.com^$third-party
+||budgetedbauer.com^$third-party
+||elasticad.net^$third-party
+||flyertown.ca^$third-party
+||freeskreen.com^$third-party
+||gscontxt.net^$third-party
+||imp*.tradedoubler.com^$third-party
+||indexww.com^$third-party
+||innity.net^$third-party
+||intellitxt.com^$third-party
+||medyanetads.com^$third-party
+||moatads.com^$third-party
+||nmcdn.us^$third-party
+||oclaserver.com^$third-party
+||pagefair.net^$third-party
+||pointroll.com^$third-party
+||popads.net^$third-party
+||serve-sys.com^$third-party
+||smartadserver.com^$third-party
+||sonobi.com^$third-party
+||unrulymedia.com^$third-party
+||ws-gateway.com^$third-party
+||adsrv.eacdn.com^$third-party
+||c.netu.tv^
+||epimg.net/js/pbs/
+||image.dhgate.com^*/dhgate-logo-$third-party
+||reuters.com/reuters_bootstrap.js
+||reuters.com/reuters_gpt_bootstrap*.js
+@@||oloadcdn.net^$third-party,xmlhttprequest,domain=openload.co
+|https://$script,third-party,xmlhttprequest,domain=openload.co
+|http://$script,third-party,xmlhttprequest,domain=uptobox.com|uptostream.com
+@@||syndication.twimg.com/widgets/$script,third-party
+financialpost.com,nationalpost.com###npLeaderboard
+allyou.com,cbsnews.com,chron.com,coastalliving.com,cookinglight.com,denverpost.com,ew.com,jpost.com,myrecipes.com,mysanantonio.com,news.com.au,nydailynews.com,nypost.com,pagesix.com,pcmag.com,people.com,seattlepi.com,sfgate.com,southernliving.com,standard.co.uk,straitstimes.com,sunset.com,telegraph.co.uk,theguardian.com,time.com,travelandleisure.com,washingtonexaminer.com,ynetnews.com###outbrain_widget_0
+rt.com##.banners__border
+jpost.com##.box-banner-wrap
+jpost.com##.level-2-horizontal-banner-wrap
+jpost.com##.level-6-horizontal-banner-wrap
+24hrs.ca,92q.com,abovethelaw.com,app.com,argusleader.com,asktofriends.com,azdailysun.com,battlecreekenquirer.com,baxterbulletin.com,bloomberg.com,bostonmagazine.com,break.com,bucyrustelegraphforum.com,burlingtonfreepress.com,businesstech.co.za,centralohio.com,chillicothegazette.com,chronicle.co.zw,cincinnati.com,cio.com,citizen-times.com,clarionledger.com,cnbc.com,cnet.com,cnn.com,coloradoan.com,computerworld.com,coshoctontribune.com,courier-journal.com,courierpostonline.com,dailyrecord.com,dailyworld.com,defensenews.com,delawareonline.com,delmarvanow.com,desmoinesregister.com,divamag.co.uk,dnj.com,ebookee.org,ebooks-share.net,examiner.co.uk,express.co.uk,fdlreporter.com,federaltimes.com,findbestvideo.com,floridatoday.com,freep.com,funnyordie.com,geektime.com,govtech.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,guampdn.com,hattiesburgamerican.com,hellobeautiful.com,herald.co.zw,hometownlife.com,hotklix.com,htrnews.com,imgur.com,independent.ie,indystar.com,infoworld.com,isohunt.to,ithacajournal.com,ixquick.com,jacksonsun.com,javaworld.com,jconline.com,knoworthy.com,lansingstatejournal.com,lfpress.com,livingstondaily.com,lohud.com,lycos.com,mansfieldnewsjournal.com,marionstar.com,marketingland.com,marshfieldnewsherald.com,montgomeryadvertiser.com,mybroadband.co.za,mycentraljersey.com,mydesert.com,mywot.com,networkworld.com,newarkadvocate.com,news-leader.com,news-press.com,newsleader.com,newsone.com,niagarafallsreview.ca,noscript.net,nugget.ca,pal-item.com,pcworld.com,pnj.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,racinguk.com,rapidlibrary.com,rgj.com,salon.com,scottishdailyexpress.co.uk,sctimes.com,searchengineland.com,seroundtable.com,sheboyganpress.com,shreveporttimes.com,slate.com,stargazette.com,startpage.com,statesmanjournal.com,stevenspointjournal.com,tallahassee.com,techworld.com,tennessean.com,theadvertiser.com,theatlantic.com,thebarrieexaminer.com,thecalifornian.com,thedailyjournal.com,thedailyobserver.ca,thedirty.com,theguardian.com,theleafchronicle.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,theobserver.ca,thepeterboroughexaminer.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetowntalk.com,torrentz.in,torrentz.me,trovit.co.uk,visaliatimesdelta.com,wausaudailyherald.com,wheels.ca,wisconsinrapidstribune.com,yippy.com,zanesvilletimesrecorder.com##.sponsored
+jpost.com##.spotlight-long
+jpost.com##.spotlight-single
+twitter.com##.suggested-tweet-stream-container
+cnn.com##section[data-zone-label="Paid Partner Content"]
+@@||2mdn.net/instream/html5/ima3.js$domain=~superfilm.pl
+@@||bbci.co.uk^*/adverts.js$domain=bbc.co.uk|bbc.com
+@@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
+@@||nyt.com^*/ad-view-manager.js$domain=nytimes.com
+@@.css^$stylesheet,domain=openload.co
+@@||hindustantimes.com/*ad$script
+@@||pleaseletmeadvertise.com^*/ads.js
+@@||usatoday.com^$generichide
+@@||adocean.pl/crossdomain.xml$object-subrequest,domain=~patrz.pl
+@@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
+!-------------------------------------------------------------------
+! --- [ fanboy kaynaklý ] --- 
+-gooadsense.
+.com/bannerlar/
+.tr/ads/
+.tr/AdServer/
+.tr/images/banners/
+.tr/includes/yaprak
+.tr/Statistic/
+/_js/adnet_
+/adaff.
+/adaff/*
+/adnet_async.
+/adnetSet.
+/ADSgmts.
+/Banners/Sponsored
+/budapop.
+/ebulten/ebulten_
+/gazetereklam/*
+/HeaderReklam.
+/inc_kare_banner_
+/incereklam.
+/leftreklam1.
+/leftreklam2.
+/MainPage/NDBanners/*
+/megacash.
+/MNetOrfad.
+/mod_moopopup/*
+/myClientAds.
+/r1eklam.
+/reklam-
+/reklam.swf
+/reklam1.swf
+/reklam3.
+/reklam_
+/reklamalanlariCSHTR.
+/reklambelirteci.
+/reklamci/*
+/reklamlar.
+/Reklamlar/*
+/reklamm.js
+/reklamsol.
+/reklamsplash.
+/reklamver.
+/renklam/*
+/rightreklam1.
+/servad.
+_reklam_125_
+!-------------------------------------------------------------------
+||habervaktim.com/1453
+||habervaktim.com/hvreklam/
+||habervaktim.com/rd.swf
+||hemmenindir.org/mypop.js
+||ads.zamunda.net^
+||appleturk.net^*.swf
+||haber7.com/load-banner.php
+||ads-rouge.haber7.com^
+!-------------------------------------------------------------------
+###kayan_reklam
+###kayan_reklam_sol
+###kayan_reklamsag
+###kayan_reklamsol
+###leftreklam1div
+###leftreklam2div
+###PopWin
+###rectangleBannerJack
+###reklam2
+###reklam300x250
+###reklam300x600
+###reklam_sol
+###reklamdetay
+###reklamdiv
+###reklamg
+###reklamgoster
+###reklami
+###reklamlar
+###reklamm
+###rightreklam2div
+###sagreklam
+###sagReklamAlani
+###sol_kayan_reklam
+###sreklam
+###tatiladvertorial
+###Ust-Reklam-Piyasa
+###ust_ara_reklam
+###ustReklam
+###ustreklam
+###ustreklamlar
+###video_reklam2
+###video_reklam3
+##.adnet_baslik
+##.adnetDetay
+##.adsindirim
+##.adsortalaindirim
+##.adsVideo
+##.adsVideoAlti
+##.degisenalti_reklam
+##.detayreklam
+##.dikeyreklam
+##.gogads
+##.gogads4
+##.kutu_reklam
+##.logoyani_reklam
+##.ortaReklam
+##.reklam-1
+##.reklam-2
+##.reklam-3
+##.reklam-4
+##.Reklam-Alani-300x250
+##.reklam-ucuzu
+##.reklam1
+##.reklam2
+##.reklam728x90
+##.reklam_300_250
+##.reklam_300_250_Ana
+##.reklam_300x250
+##.reklam_728_90
+##.ReklamBandi
+##.ReklamBandi2
+##.ReklamBir
+##.reklamDiv
+##.reklamlar
+##.reklamoynama
+##.reklamUst
+##.reklamyatay
+##.sag_reklam
+##.sag_reklam2
+##.sagreklam
+##.sagReklam300x250
+##.sRightAdSpace
+##.start__advertising_container
+##.ustOrtaSolReklam
+##.vSagReklam-1
+##.vSagReklam-2
+##.yediyuzads
+!-------------------------------------------------------------------
+haber7.com##.social
+||addnow.com^$third-party
+||addthis.com^$third-party
+||addthiscdn.com^$domain=~addthis.com
+||addtoany.com^$third-party
+||ahalogy.com^$third-party
+||aim-ads.com/multimedia-themonitor-com/wwwroot/*_twitter_
+||angel.co/embed/button.html$third-party
+||api-read.facebook.com/restserver.php?api_key=$third-party
+||api.groupon.com^$third-party
+||api.oneall.com^$third-party
+||api.starsmp.com^$third-party
+||api.twitter.com^*/count.json?$third-party
+||api.twitter.com^*/lookup.json?$third-party
+||api.twitter.com^*/show.json?$third-party,domain=~twimg.com
+||api.twitter.com^*/user_timeline$third-party
+||apis.google.com/*/socialgraph/$third-party
+||apis.google.com/_/apps-static/_/js/gapi/*plusone/$third-party
+||apis.google.com/_/scs/apps-static/*=page,plusone/$third-party
+||apis.google.com/js/platform.js$third-party
+||apis.google.com^*/widget/render/badge?$third-party
+||apis.google.com^*/widget/render/follow?$third-party
+||apis.google.com^*/widget/render/page?$third-party
+||apis.google.com^*/widget/render/person?$third-party
+||assets.pinterest.com/js/pinit.js$third-party
+||assets.pinterest.com/pidget.html$third-party
+||assets.tumblr.com/assets/html/iframe/o.html$third-party
+||assets.tumblr.com/assets/html/iframe/teaser.html?$third-party
+||b2c-wsinsight.crowdfactory.com^$third-party
+||badge.facebook.com^$third-party
+||badges.del.icio.us/feeds/$third-party
+||badges.instagram.com^$third-party
+||bit.ly/TweetAndTrack.js
+||bizsugar.com^*/button-b.php$third-party
+||bloglovin.com/widget/$third-party
+||bshare.cn^$third-party
+||button.spread.ly^$third-party
+||buttons.googlesyndication.com^$third-party,domain=~google.com
+||buttons.reddit.com^$third-party
+||buzzbuttons.com^$third-party
+||buzzfeed.com^$third-party,domain=~stumbleupon.com
+||cdn.wibiya.com^$script
+||cloudfront.net/*/facebook.png
+||cloudfront.net/*/twitter.png
+||connect.ok.ru^$third-party
+||conversionsbox.com^$third-party
+||crowdynews.com^$third-party
+||del.icio.us/feeds/js/$third-party,domain=~delicious.com
+||delicious.com/static/img/delicious.$third-party
+||digg.com/img/badges/$third-party
+||digg.com^$script,subdocument,third-party
+||diggstatic.com^*/follow_buttons/
+||encrypted-tbn2.gstatic.com/images?$domain=vitorrent.org
+||external.followgram.me^$third-party
+||facebook.com*/plugins/like.php?$third-party
+||facebook.com/connect/connect.*connections$third-party,domain=~farmville.com
+||facebook.com/connect/connect.php?*width*&height$third-party
+||facebook.com/dialog/oauth?display=popup$popup,domain=humorhub.org
+||facebook.com/plugins/activity.php?$third-party
+||facebook.com/plugins/facepile.php?$third-party
+||facebook.com/plugins/fan.php?$third-party
+||facebook.com/plugins/follow.php$third-party
+||facebook.com/plugins/follow?$third-party
+||facebook.com/plugins/like_box.php$third-party
+||facebook.com/plugins/likebox/$third-party
+||facebook.com/plugins/page.php?$third-party
+||facebook.com/plugins/recommendations.php?$third-party
+||facebook.com/plugins/recommendations_bar.php?$third-party
+||facebook.com/plugins/send.php?$third-party
+||facebook.com/plugins/subscribe.php$third-party
+||facebook.com/plugins/subscribe?$third-party
+||facebook.com/restserver.php?*.getStats&$third-party
+||facebook.com/whitepages/wpminiprofile.php$third-party
+||facebook.com/widgets/activity.php?$third-party
+||facebook.com/widgets/fan.php?$third-party
+||facebook.com/widgets/like.php?$third-party
+||facebook.com/widgets/recommendations.php?$third-party
+||facebook.com^*/plugins/activity.php?$third-party
+||facebook.com^*/plugins/facepile.php?$third-party
+||facebook.com^*/plugins/fan.php?$third-party
+||facebook.com^*/plugins/follow.php?$third-party
+||facebook.com^*/plugins/follow?$third-party
+||facebook.com^*/plugins/like.php?$third-party
+||facebook.com^*/plugins/like_box.php?$third-party
+||facebook.com^*/plugins/likebox/$third-party
+||facebook.com^*/plugins/page.php?$third-party
+||facebook.com^*/plugins/recommendations.php?$third-party
+||facebook.com^*/plugins/recommendations_bar.php?$third-party
+||facebook.com^*/plugins/send.php?$third-party
+||facebook.com^*/plugins/subscribe.php$third-party
+||facebook.com^*/plugins/subscribe?$third-party
+||fanconverter.wetpaint.me^$third-party
+||fark.com^$script,third-party
+||feedly.com/img/follows/$third-party
+||figshare.com^$third-party
+||filamentapp-assets.s3.amazonaws.com^$third-party
+||filamentapp.s3.amazonaws.com^$third-party
+||flickr.com/badge_code_$third-party
+||flipboard.com/web/buttons/$third-party
+||followistic.com^$third-party
+||friends2follow.com^$subdocument,third-party
+||getpocket.com/button?$third-party
+||getsocial.io/widget/$third-party
+||google.com/_/+1/$third-party
+||google.com^*/fastbutton?$third-party
+||gplusapi.appspot.com^$third-party
+||graph.facebook.com/fql?q=SELECT$third-party
+||handll.com^$third-party
+||hatena.ne.jp/entry/button/$third-party
+||herokuapp.com/button.html?$third-party
+||hn-button.herokuapp.com^$third-party
+||houzz.com/buttonWidget?$third-party
+||iconosquare.com/widget.php$third-party
+||insidesoci.al^$third-party
+||instagramfollowbutton.com^$third-party
+||intagme.com/in/?u=$third-party
+||interestingnation.com/like.php$third-party
+||jit.su/frame$third-party
+||karmacracy.com/widget$third-party
+||lessbuttons.com^$third-party
+||likebtn.com^$third-party
+||likecontrol.com^$third-party
+||linkedin.com/countserv/$third-party
+||linkedin.com/img/$third-party
+||linkedin.com/uas/js/userspace?$third-party
+||linksalpha.com^$third-party
+||loginradius.com^$third-party
+||loveclaw.com^$third-party
+||markerly.com^$third-party
+||massrelevance.com^$third-party
+||meebo.com^$third-party
+||meerkatapp.co/btn/$third-party
+||networkedblogs.com^$third-party
+||pinimg.com^$third-party,domain=~pinterest.com
+||pinterest.com/images/$third-party
+||pinterest.com/js/pinit_main.js$third-party
+||pinterest.com/v1/urls/count.json$third-party
+||platform.foursquare.com^$third-party
+||platform.linkedin.com^$third-party
+||platform.stumbleupon.com/*/widgets.js$third-party
+||platform.tumblr.com^$third-party
+||platform.twitter.com*/widget/$third-party
+||platform.twitter.com*/widgets/$third-party
+||platform.twitter.com/anywhere.js$third-party
+||platform.twitter.com/embed/$~stylesheet,third-party
+||platform.twitter.com/js/button.$third-party
+||plista.com/like.php$third-party
+||plus.google.com^*/js/widget/$third-party
+||plusone.google.com^$third-party
+||po.st/share/$script
+||po.st/static/$third-party
+||readrboard.com^$third-party
+||reddit.com/api/info.json?$third-party
+||reddit.com/button.js?$third-party
+||reddit.com/buttonlite.js$third-party
+||reddit.com/buttonlite?$third-party
+||reddit.com/domain/$third-party
+||reddit.com/static/$third-party
+||reddit.com^*/submitted.embed?$third-party
+||redditstatic.com/button/$third-party,domain=~reddit.com
+||redditstatic.s3.amazonaws.com^$third-party,domain=~reddit.com
+||rp-api.com/rjs/repostus.js
+||saywidgets.awe.sm^$third-party
+||scoop.it^$third-party
+||search.twitter.com^$third-party
+||share.pluso.ru^$third-party
+||share.static.skyrock.net^$third-party
+||share.yandex.ru^$third-party
+||shareaholic.com^$third-party
+||sharedcount.com^$third-party
+||shares.api.awe.sm^$third-party
+||sharethis.com^$third-party
+||sharexy.com^$third-party
+||shpg.org^$third-party
+||smartaddon.com/share_addon.js
+||social9.com^$third-party
+||socialannex.com^$third-party
+||socialhoney.co/widget/
+||socialmarker.com^$third-party
+||socialmediabuttons.com^$third-party
+||socialmediatabs.com^$third-party
+||socialproof.it^$third-party
+||socialrest.com^$third-party
+||socialtools.fm^$third-party
+||spiceworks.com/share/$third-party
+||spotify.com/follow/$third-party
+||static*.linkedin.com/scds/common/$image,third-party
+||static.delicious.com^$third-party
+||statigr.am/widget.php$third-party
+||statigr.am^*/follow/$third-party
+||stipple.cachefly.net^$third-party
+||stipple.com^$third-party
+||store.yahoo.net^*/facebook.png$third-party
+||store.yahoo.net^*/twitter.png$third-party
+||storeya.com/externalscript/$third-party
+||stumble-upon.com^$third-party,domain=~stumbleupon.com
+||stumbleupon.com/badge/$third-party
+||stumbleupon.com/hostedbadge$third-party
+||stumbleupon.com/services/$third-party
+||sumome.com^$third-party
+||syndication.twimg.com/widgets/$third-party
+||toolbar.cdn.gigya.com^$third-party
+||trendemon.com^$third-party
+||tru.am^$third-party
+||tweetboard.com^$third-party
+||tweetgrid.com^$third-party
+||tweetmeme.com^$third-party
+||tweetriver.com^$third-party
+||twitbuttons.com^$third-party
+||twitstat.us^$third-party
+||twitter-badges.s3.amazonaws.com^
+||twitter.com/*statuses/user_timeline/$third-party
+||twitter.com/account/$third-party
+||twitter.com/i/jot
+||twitter.com/javascripts/$third-party
+||twitter.com/js/timeline.$script,third-party
+||twittercounter.com^$third-party
+||twitterforweb.com^$third-party
+||twittericon.com^$third-party
+||twittermysite.com^$third-party
+||twitthis.com^$third-party
+||vk.com/share.php?$third-party
+||vk.com/widget_community.php$third-party
+||vk.com/widget_like.php$third-party
+||vkontakte.ru/js/api/$third-party,domain=~vk.com
+||vkontakte.ru/widget_community.php$third-party
+||vkontakte.ru/widget_like.php$third-party
+||votes.buzz.yahoo.com^$third-party
+||w.uptolike.com^$third-party
+||weheartit.com^$third-party
+||weibo.com/staticjs/weiboshare.html$third-party
+||wer-kennt-wen.de/js/widgets/external/$third-party
+||werkenntwen.de/images/empfehlen_buttons/$third-party
+||whatsapp-sharing.com^$third-party
+||widget.stagram.com^$third-party
+||widget.weibo.com^$third-party
+||widgets.bufferapp.com^$third-party
+||widgets.digg.com^$third-party
+||widgets.fbshare.me^$third-party
+||widgets.getpocket.com^$third-party
+||widgets.itaringa.net^$third-party
+||widgets.twimg.com^$third-party
+||widgets.wp.com/likes/$third-party
+||wykop.pl/dataprovider/diggerwidget/$third-party
+||xing-share.com^$third-party
+||xing.com/img/buttons/$third-party
+||youtube.com/subscribe_embed?$third-party
+||youtube.com/subscribe_widget$third-party
+||ywidgets.awe.sm^$third-party
+||zextit.com/partners/$third-party
+
+||123cursors.com^$third-party
+||1worldonline.com^$third-party
+||2kurl.com^$third-party
+||2leep.com^$third-party
+||37signals.com^$third-party
+||a.mailmunch.co/app/$script,third-party
+||a1000k.com/button.php
+||addinto.com^$third-party
+||advantagemedia.com^$third-party
+||adzuna-jobbox.fairfaxmedia.com.au/adzuna/$third-party
+||affiliates.eblastengine.com^$third-party
+||allpass.salemwebnetwork.com^$third-party
+||alluremedia.com.au/s/au.js$third-party
+||amazonaws.com/fby.js
+||amazonaws.com/fby/
+||amazonaws.com/mailmunch/$script
+||amazonaws.com^*/feedback-v2.js
+||antenna.is^$third-party
+||api.branch.io^$third-party
+||api.flattr.com^$third-party
+||api.search.live.net^$third-party,domain=~bing.com
+||api.traq.li^$third-party
+||app.e2ma.net^$third-party
+||appboy.eu^$third-party
+||apture.com^$script,third-party
+||assets.simplifydigital.co.uk^$third-party
+||autolinkmaker.itunes.apple.com^$third-party
+||badges.alltop.com^$third-party
+||badgeville.com^$third-party
+||bigdoor.com^$third-party
+||bing.com*/bootstrap.js$third-party
+||bing.com/widget/render/$third-party
+||blockmetrics.com^$third-party
+||blogcatalog.com^$third-party
+||blogengage.com^$third-party
+||bloggergreetbox.googlecode.com^$third-party
+||bloglines.com^$third-party
+||blogsmithmedia.com^*facebook$image
+||blogtopsites.com^$third-party
+||bookmrk.us^$third-party
+||bounceexchange.com^$third-party
+||btn.createsend1.com^$third-party
+||bufferapp.com/js/button.js$third-party
+||bumpin.com^$third-party
+||buttons.contactme.com^$third-party
+||buzz-stats.com^$third-party
+||carambo.la^$third-party
+||care2.com/petitions/$third-party,domain=~thepetitionsite.com
+||celebjihad.com^$third-party
+||chameleon.ad^$third-party
+||civiccomputing.com^*=cookie$script,third-party
+||civicscience.com/widget/jspoll/$third-party
+||clearbit.com^$third-party
+||cloudfront.net/js/slide.js
+||cmpmedica.com/ssonp/networkbar.js$third-party
+||communicatoremail.com^$subdocument,third-party
+||complexmedianetwork.com^$third-party
+||connect.nosto.com^$third-party
+||consent.truste.com^$third-party
+||contextly.com^$third-party
+||convertsocial.com^$third-party
+||cookie-script.com^$third-party
+||cookieassistant.com^$third-party
+||cookiebot.com^$third-party
+||cookiechoices.org^$third-party
+||cookieconsent.silktide.com^$third-party
+||cookieinformation.com^$third-party
+||cookielaw.org^$third-party
+||cookiemanager1.contentforces.com^$third-party
+||cookieq.com^$third-party
+||cookiereports.com^$third-party
+||cookies.innershed.co.uk^
+||curiyo.com^$third-party
+||cursors-4u.net^$third-party
+||d1uh1a7az90pt0.cloudfront.net^
+||devscroll.com^$third-party
+||digsby.com^$third-party
+||diigo.com/images/diigo-icon/$third-party
+||disqus.com/api/*/listRelated.json?
+||dotmailer-surveys.com^$third-party
+||dotnetkicks.com^$third-party
+||dotnetshoutout.com^$third-party
+||download.skype.com/share/$third-party
+||dukecms.com/deals2/$third-party
+||eff.org/bloggers/badges/$third-party
+||embed.e2ma.net^$third-party
+||engage.gsfn.us^$third-party
+||eventful.com^$third-party
+||facebookicon.net^$third-party
+||fark.com/js/$third-party
+||fast.eager.io^$third-party
+||feed.mikle.com^$third-party
+||feedage.com^$third-party
+||feedage.net^$third-party
+||feedbackify.com/f.js$third-party
+||feedblitz.com^$third-party
+||feedburner.com^$image,third-party
+||feeds.delicious.com^$third-party
+||fem-inc.com^$third-party
+||finderfox.smarterfox.com^*/finderfox.js$third-party
+||flashgroup.com^$third-party
+||fluidsurveys.com^$third-party
+||folloyu.com^$third-party
+||form.jotformpro.com^$third-party,domain=entrepreneur.com
+||freetellafriend.com^$third-party
+||fwix.com^$third-party
+||galileofive.com^$third-party
+||georiot.com^$third-party
+||getdrip.com^$third-party
+||getglue.com^$third-party
+||getkudos.me^$third-party
+||getmailcounter.com^$third-party
+||getscoutapp.com^$third-party
+||getsitecontrol.com^$third-party
+||getsmily.com^$third-party
+||githubbadge.appspot.com^$third-party
+||go.pardot.com^$subdocument,third-party
+||google.com/uds/?file=orkut&
+||goroost.com^$third-party
+||gravity.com^$third-party
+||grazeit.com^$third-party
+||groupon.com^*/affiliate_widget/$third-party
+||healthgrades.com^$third-party
+||hellobar.com^$third-party
+||hnbutton.appspot.com^$third-party
+||hnlike.com^$third-party
+||honcode.ch^$third-party
+||hpr.outbrain.com^$third-party
+||identi.ca/js/identica-badge.js$third-party
+||images.hitwise.co.uk^$third-party
+||img.fark.net/pub/$third-party
+||informvisitors.com^$third-party
+||instaemail.net^$third-party
+||instapaper.com/e2$third-party
+||instapaper.com/javascript/$third-party
+||insticator.com^$third-party
+||intern.forskning.no^$third-party
+||internetdefenseleague.org^$third-party
+||invite.linescale.com^$third-party
+||iubenda.com^$third-party
+||jisbar.com^$third-party
+||jobamatic.com^$third-party
+||jobs.thejobnetwork.com^$third-party
+||jobthread.com^$third-party
+||jobvite.com/widget20.js$third-party
+||js.brow.si^$third-party
+||jugglu.com^$third-party
+||kaango.com/feCustomWidgetDisplay/$third-party
+||knowd.com^$third-party
+||leadacity.net^$third-party
+||leadpages.co^$third-party
+||letreach.com^$third-party
+||letsgetsocialnow.com^$third-party
+||ligatus.com^$third-party
+||linkwithin.com^$third-party
+||list-manage1.com/subscriber-count?$third-party
+||liveintent.com^$third-party
+||loyalis.co^$third-party
+||madmimi.com/signups/$third-party
+||magimg.com/random?$third-party
+||mail.advantagebusinessmedia.com^$third-party
+||mailjet.com/widget/$third-party
+||mailmunch.s3.amazonaws.com^
+||moreshare.com^$third-party
+||mozo.com.au/widgets/$third-party
+||my.leadpages.net^$third-party
+||myvoicenation.com^$third-party
+||newsgator.com^$third-party
+||newsletter.outbrain.com^$third-party
+||newswhip.com^$third-party
+||nonissue.com^$third-party
+||nrcdn.com/custom-script/$third-party
+||nrelate.com^$third-party
+||odb.outbrain.com^$third-party
+||onesignal.com^$third-party
+||optimonk.com^$third-party
+||optinmonster.com^$third-party
+||optkit.com^$third-party
+||optnmnstr.com^$third-party
+||parse.ly^$third-party
+||pinddeals.com^$third-party
+||pippity.com^$third-party
+||plaxo.com^$third-party
+||plugin.me2day.net^$third-party
+||powerjobs.com^$third-party
+||pressly.com^$third-party
+||primetag.net^$third-party
+||privy.com^$third-party
+||promoshq.wildfireapp.com^$third-party
+||promotion.monster.com^$third-party
+||promotions.newegg.com^$third-party
+||pubexchange.com^$third-party
+||publisher.monster.com^$third-party
+||punchtab.com^$third-party
+||push.connect.digital^$third-party
+||pushcrew.com^$third-party
+||pushengage.com^$third-party
+||qeryz.com^$third-party
+||qrius.me^$third-party
+||quote.fm/services/button/$third-party
+||r42tag.com^$third-party
+||rankdirectory.org^$third-party
+||readability.com/embed.js$third-party
+||recommendedbookies.co.uk^$third-party
+||repost.us^$third-party
+||research.net^$third-party
+||rokt.com^$third-party
+||roost.me^$third-party
+||rsspump.com^$third-party
+||sail-horizon.com/horizon/$third-party
+||sail-horizon.com/scout/$third-party
+||sailthru.com^$third-party
+||savvysource.com^$third-party
+||scoutle.com^$third-party
+||scribol.com^$third-party
+||scripts.mailfire.io^$third-party
+||sendpulse.com^$third-party
+||senzari.com^$third-party
+||services.webklipper.com/geoip/$third-party
+||sharenice.org^$third-party
+||sheknows.com/widget/
+||sidelinesapp.com^$third-party
+||skysa.com^$third-party
+||slashdot.org^$third-party
+||sleeknoteboxcontent.sleeknote.com^$third-party
+||smartcookies.it^$third-party
+||snapwidget.com^$third-party
+||sociallist.org^$third-party
+||socialoomph.com^$third-party
+||socialtwist.com^$third-party
+||socialvibe.com^$third-party
+||sodahead.com^$third-party
+||sphere.outbrain.com^$third-party
+||statictapcdn-a.akamaihd.net^$third-party
+||storystack.com^$third-party
+||styld-by.com^$third-party
+||surfingbird.ru^$third-party
+||survey.constantcontact.com^$third-party
+||survey.io^$third-party
+||surveygizmo.com^$third-party
+||surveymonkey.com^$third-party,domain=~surverymonkey.co.uk|~surveymonkey.co.uk
+||swishu.com^$third-party
+||taboola.com^$third-party
+||taboolasyndication.com^$third-party
+||tapcdn.com/mosaic/tap_button.js
+||teamautofollow.com/modules/mod_jtwitter/
+||techbeat.com/wp-content/custom-php/$third-party
+||technorati.com^$third-party
+||theechosystem.com^$third-party
+||thelovebucks.com^$third-party
+||theslingshot.com^$third-party
+||tinker.com^$third-party
+||toolbar.avg.com^$third-party
+||toolbar.complex.com^$third-party
+||topsy.com^$third-party
+||tuenti.com^$third-party
+||turnsocial.com^$third-party
+||twackle.com^$third-party
+||tweetup.com^$third-party
+||uatu.newsquestdigital.co.uk^$third-party
+||vhmengine.com^$third-party
+||vrp.outbrain.com^$third-party
+||vrt.outbrain.com^$third-party
+||wahwahnetworks.com^$third-party
+||weebly.com/*_signup.php$third-party
+||weworkremotely.com^$third-party
+||widget.adviceiq.com^$third-party
+||widget.breakingburner.com^$third-party
+||widget.chipin.com^$third-party
+||widget.clipix.com^$third-party
+||widget.crowdignite.com^$third-party
+||widget.firefeeder.com^$third-party
+||widget.pushbullet.com^$third-party
+||widget.trustpilot.com^$third-party
+||widgets.awe.sm^$third-party
+||widgets.backtype.com^$third-party
+||widgets.dzone.com^$third-party
+||widgets.itunes.apple.com^$third-party
+||widgets.outbrain.com^$third-party
+||widgets.seekitlocal.com^$third-party
+||widgets.sprinkletxt.com^
+||widgets.tapcdn.com^$third-party
+||widgets.tapiture.com^$third-party
+||widgetsplus.com^$third-party
+||wisepops.com^$third-party
+||wonderpush.com^$third-party
+||woobox.com^$third-party
+||ws.audioscrobbler.com^$third-party,domain=~last.fm|~lastfm.de|~lastfm.ru|~play.google.com|~spotify.com
+||yimg.com/uq/syndication/
+||youappi.com/widget/$third-party
+||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org
+||ytimg.com^*/www-subscribe-widget-$script
+||zaparena.com^$third-party
+||zfacts.com^$third-party
+||zimbio.com/images/badges/$third-party
+||zoomanalytics.co^$third-party
+||sendtonews.com/player/sidebar.php?$third-party
+!-------------------------------------------------------------------
+||addnow.com^$third-party
+||addthis.com^$third-party
+||addthiscdn.com^$domain=~addthis.com
+||addtoany.com^$third-party
+||ahalogy.com^$third-party
+||aim-ads.com/multimedia-themonitor-com/wwwroot/*_twitter_
+||angel.co/embed/button.html$third-party
+||api-read.facebook.com/restserver.php?api_key=$third-party
+||api.groupon.com^$third-party
+||api.oneall.com^$third-party
+||api.starsmp.com^$third-party
+||api.twitter.com^*/count.json?$third-party
+||api.twitter.com^*/lookup.json?$third-party
+||api.twitter.com^*/show.json?$third-party,domain=~twimg.com
+||api.twitter.com^*/user_timeline$third-party
+||apis.google.com/*/socialgraph/$third-party
+||apis.google.com/_/apps-static/_/js/gapi/*plusone/$third-party
+||apis.google.com/_/scs/apps-static/*=page,plusone/$third-party
+||apis.google.com/js/platform.js$third-party
+||apis.google.com^*/widget/render/badge?$third-party
+||apis.google.com^*/widget/render/follow?$third-party
+||apis.google.com^*/widget/render/page?$third-party
+||apis.google.com^*/widget/render/person?$third-party
+||assets.pinterest.com/js/pinit.js$third-party
+||assets.pinterest.com/pidget.html$third-party
+||assets.tumblr.com/assets/html/iframe/o.html$third-party
+||assets.tumblr.com/assets/html/iframe/teaser.html?$third-party
+||b2c-wsinsight.crowdfactory.com^$third-party
+||badge.facebook.com^$third-party
+||badges.del.icio.us/feeds/$third-party
+||badges.instagram.com^$third-party
+||bit.ly/TweetAndTrack.js
+||bizsugar.com^*/button-b.php$third-party
+||bloglovin.com/widget/$third-party
+||bshare.cn^$third-party
+||button.spread.ly^$third-party
+||buttons.googlesyndication.com^$third-party,domain=~google.com
+||buttons.reddit.com^$third-party
+||buzzbuttons.com^$third-party
+||buzzfeed.com^$third-party,domain=~stumbleupon.com
+||cdn.wibiya.com^$script
+||cloudfront.net/*/facebook.png
+||cloudfront.net/*/twitter.png
+||connect.ok.ru^$third-party
+||conversionsbox.com^$third-party
+||crowdynews.com^$third-party
+||del.icio.us/feeds/js/$third-party,domain=~delicious.com
+||delicious.com/static/img/delicious.$third-party
+||digg.com/img/badges/$third-party
+||digg.com^$script,subdocument,third-party
+||diggstatic.com^*/follow_buttons/
+||encrypted-tbn2.gstatic.com/images?$domain=vitorrent.org
+||external.followgram.me^$third-party
+||facebook.com*/plugins/like.php?$third-party
+||facebook.com/connect/connect.*connections$third-party,domain=~farmville.com
+||facebook.com/connect/connect.php?*width*&height$third-party
+||facebook.com/dialog/oauth?display=popup$popup,domain=humorhub.org
+||facebook.com/plugins/activity.php?$third-party
+||facebook.com/plugins/facepile.php?$third-party
+||facebook.com/plugins/fan.php?$third-party
+||facebook.com/plugins/follow.php$third-party
+||facebook.com/plugins/follow?$third-party
+||facebook.com/plugins/like_box.php$third-party
+||facebook.com/plugins/likebox/$third-party
+||facebook.com/plugins/page.php?$third-party
+||facebook.com/plugins/recommendations.php?$third-party
+||facebook.com/plugins/recommendations_bar.php?$third-party
+||facebook.com/plugins/send.php?$third-party
+||facebook.com/plugins/subscribe.php$third-party
+||facebook.com/plugins/subscribe?$third-party
+||facebook.com/restserver.php?*.getStats&$third-party
+||facebook.com/whitepages/wpminiprofile.php$third-party
+||facebook.com/widgets/activity.php?$third-party
+||facebook.com/widgets/fan.php?$third-party
+||facebook.com/widgets/like.php?$third-party
+||facebook.com/widgets/recommendations.php?$third-party
+||facebook.com^*/plugins/activity.php?$third-party
+||facebook.com^*/plugins/facepile.php?$third-party
+||facebook.com^*/plugins/fan.php?$third-party
+||facebook.com^*/plugins/follow.php?$third-party
+||facebook.com^*/plugins/follow?$third-party
+||facebook.com^*/plugins/like.php?$third-party
+||facebook.com^*/plugins/like_box.php?$third-party
+||facebook.com^*/plugins/likebox/$third-party
+||facebook.com^*/plugins/page.php?$third-party
+||facebook.com^*/plugins/recommendations.php?$third-party
+||facebook.com^*/plugins/recommendations_bar.php?$third-party
+||facebook.com^*/plugins/send.php?$third-party
+||facebook.com^*/plugins/subscribe.php$third-party
+||facebook.com^*/plugins/subscribe?$third-party
+||fanconverter.wetpaint.me^$third-party
+||fark.com^$script,third-party
+||feedly.com/img/follows/$third-party
+||figshare.com^$third-party
+||filamentapp-assets.s3.amazonaws.com^$third-party
+||filamentapp.s3.amazonaws.com^$third-party
+||flickr.com/badge_code_$third-party
+||flipboard.com/web/buttons/$third-party
+||followistic.com^$third-party
+||friends2follow.com^$subdocument,third-party
+||getpocket.com/button?$third-party
+||getsocial.io/widget/$third-party
+||google.com/_/+1/$third-party
+||google.com^*/fastbutton?$third-party
+||gplusapi.appspot.com^$third-party
+||graph.facebook.com/fql?q=SELECT$third-party
+||handll.com^$third-party
+||hatena.ne.jp/entry/button/$third-party
+||herokuapp.com/button.html?$third-party
+||hn-button.herokuapp.com^$third-party
+||houzz.com/buttonWidget?$third-party
+||iconosquare.com/widget.php$third-party
+||insidesoci.al^$third-party
+||instagramfollowbutton.com^$third-party
+||intagme.com/in/?u=$third-party
+||interestingnation.com/like.php$third-party
+||jit.su/frame$third-party
+||karmacracy.com/widget$third-party
+||lessbuttons.com^$third-party
+||likebtn.com^$third-party
+||likecontrol.com^$third-party
+||linkedin.com/countserv/$third-party
+||linkedin.com/img/$third-party
+||linkedin.com/uas/js/userspace?$third-party
+||linksalpha.com^$third-party
+||loginradius.com^$third-party
+||loveclaw.com^$third-party
+||markerly.com^$third-party
+||massrelevance.com^$third-party
+||meebo.com^$third-party
+||meerkatapp.co/btn/$third-party
+||networkedblogs.com^$third-party
+||pinimg.com^$third-party,domain=~pinterest.com
+||pinterest.com/images/$third-party
+||pinterest.com/js/pinit_main.js$third-party
+||pinterest.com/v1/urls/count.json$third-party
+||platform.foursquare.com^$third-party
+||platform.linkedin.com^$third-party
+||platform.stumbleupon.com/*/widgets.js$third-party
+||platform.tumblr.com^$third-party
+||platform.twitter.com*/widget/$third-party
+||platform.twitter.com*/widgets/$third-party
+||platform.twitter.com/anywhere.js$third-party
+||platform.twitter.com/embed/$~stylesheet,third-party
+||platform.twitter.com/js/button.$third-party
+||plista.com/like.php$third-party
+||plus.google.com^*/js/widget/$third-party
+||plusone.google.com^$third-party
+||po.st/share/$script
+||po.st/static/$third-party
+||readrboard.com^$third-party
+||reddit.com/api/info.json?$third-party
+||reddit.com/button.js?$third-party
+||reddit.com/buttonlite.js$third-party
+||reddit.com/buttonlite?$third-party
+||reddit.com/domain/$third-party
+||reddit.com/static/$third-party
+||reddit.com^*/submitted.embed?$third-party
+||redditstatic.com/button/$third-party,domain=~reddit.com
+||redditstatic.s3.amazonaws.com^$third-party,domain=~reddit.com
+||rp-api.com/rjs/repostus.js
+||saywidgets.awe.sm^$third-party
+||scoop.it^$third-party
+||search.twitter.com^$third-party
+||share.pluso.ru^$third-party
+||share.static.skyrock.net^$third-party
+||share.yandex.ru^$third-party
+||shareaholic.com^$third-party
+||sharedcount.com^$third-party
+||shares.api.awe.sm^$third-party
+||sharethis.com^$third-party
+||sharexy.com^$third-party
+||shpg.org^$third-party
+||smartaddon.com/share_addon.js
+||social9.com^$third-party
+||socialannex.com^$third-party
+||socialhoney.co/widget/
+||socialmarker.com^$third-party
+||socialmediabuttons.com^$third-party
+||socialmediatabs.com^$third-party
+||socialproof.it^$third-party
+||socialrest.com^$third-party
+||socialtools.fm^$third-party
+||spiceworks.com/share/$third-party
+||spotify.com/follow/$third-party
+||static*.linkedin.com/scds/common/$image,third-party
+||static.delicious.com^$third-party
+||statigr.am/widget.php$third-party
+||statigr.am^*/follow/$third-party
+||stipple.cachefly.net^$third-party
+||stipple.com^$third-party
+||store.yahoo.net^*/facebook.png$third-party
+||store.yahoo.net^*/twitter.png$third-party
+||storeya.com/externalscript/$third-party
+||stumble-upon.com^$third-party,domain=~stumbleupon.com
+||stumbleupon.com/badge/$third-party
+||stumbleupon.com/hostedbadge$third-party
+||stumbleupon.com/services/$third-party
+||sumome.com^$third-party
+||syndication.twimg.com/widgets/$third-party
+||toolbar.cdn.gigya.com^$third-party
+||trendemon.com^$third-party
+||tru.am^$third-party
+||tweetboard.com^$third-party
+||tweetgrid.com^$third-party
+||tweetmeme.com^$third-party
+||tweetriver.com^$third-party
+||twitbuttons.com^$third-party
+||twitstat.us^$third-party
+||twitter-badges.s3.amazonaws.com^
+||twitter.com/*statuses/user_timeline/$third-party
+||twitter.com/account/$third-party
+||twitter.com/i/jot
+||twitter.com/javascripts/$third-party
+||twitter.com/js/timeline.$script,third-party
+||twittercounter.com^$third-party
+||twitterforweb.com^$third-party
+||twittericon.com^$third-party
+||twittermysite.com^$third-party
+||twitthis.com^$third-party
+||vk.com/share.php?$third-party
+||vk.com/widget_community.php$third-party
+||vk.com/widget_like.php$third-party
+||vkontakte.ru/js/api/$third-party,domain=~vk.com
+||vkontakte.ru/widget_community.php$third-party
+||vkontakte.ru/widget_like.php$third-party
+||votes.buzz.yahoo.com^$third-party
+||w.uptolike.com^$third-party
+||weheartit.com^$third-party
+||weibo.com/staticjs/weiboshare.html$third-party
+||wer-kennt-wen.de/js/widgets/external/$third-party
+||werkenntwen.de/images/empfehlen_buttons/$third-party
+||whatsapp-sharing.com^$third-party
+||widget.stagram.com^$third-party
+||widget.weibo.com^$third-party
+||widgets.bufferapp.com^$third-party
+||widgets.digg.com^$third-party
+||widgets.fbshare.me^$third-party
+||widgets.getpocket.com^$third-party
+||widgets.itaringa.net^$third-party
+||widgets.twimg.com^$third-party
+||widgets.wp.com/likes/$third-party
+||wykop.pl/dataprovider/diggerwidget/$third-party
+||xing-share.com^$third-party
+||xing.com/img/buttons/$third-party
+||youtube.com/subscribe_embed?$third-party
+||youtube.com/subscribe_widget$third-party
+||ywidgets.awe.sm^$third-party
+||zextit.com/partners/$third-party
+!-------------------------------------------------------------------
+! --- [ bkrcrc kaynakly ] --- !
+127.0.0.1 0638.info
+127.0.0.1 109.73.75.29
+127.0.0.1 109.73.75.3
+127.0.0.1 12638.engine.mobileapptracking.com
+127.0.0.1 14716.engine.mobileapptracking.com
+127.0.0.1 178852.engine.mobileapptracking.com
+127.0.0.1 189060.deeplink.mobileapptracking.com
+127.0.0.1 189060.engine.mobileapptracking.com
+127.0.0.1 189732.engine.mobileapptracking.com
+127.0.0.1 217.195.197.45
+127.0.0.1 2mdn.net
+127.0.0.1 2o7.net
+127.0.0.1 3444.deeplink.mobileapptracking.com
+127.0.0.1 3444.engine.mobileapptracking.com
+127.0.0.1 8digits.com
+127.0.0.1 a.ads1.msads.net
+127.0.0.1 a.ads1.msn.com
+127.0.0.1 a.ads2.msads.net
+127.0.0.1 a.ads2.msn.com
+127.0.0.1 a1.mzstatic.com
+127.0.0.1 aadserving.com
+127.0.0.1 ac3.msn.com
+127.0.0.1 acc-hd.de
+127.0.0.1 action.adzcore.com
+127.0.0.1 ad.afftrck.com
+127.0.0.1 ad.arklm.com
+127.0.0.1 ad.atdmt.com
+127.0.0.1 ad.bestsportstream.com
+127.0.0.1 ad.donanimhaber.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.eglenced.com
+127.0.0.1 ad.emlakeki.com
+127.0.0.1 ad.logro.com.tr
+127.0.0.1 ad.mygamesol.com
+127.0.0.1 ad.ntvmsnbc.com
+127.0.0.1 ad.reklam.xyz
+127.0.0.1 ad.reklamport.com
+127.0.0.1 ad.sacitaslan.com
+127.0.0.1 ad.webservis.gen.tr
+127.0.0.1 ad.wslinx.com
+127.0.0.1 ad.yemeksepeti.com
+127.0.0.1 ad.zaman.com.tr
+127.0.0.1 ad01.tmgrup.com.tr
+127.0.0.1 ad4game.sharingcentre.net
+127.0.0.1 adadvisor.net
+127.0.0.1 adasist.com
+127.0.0.1 adbers.com
+127.0.0.1 adbetnet.advertserve.com
+127.0.0.1 adbuzz.com.tr
+127.0.0.1 adcash.com
+127.0.0.1 adcater.com
+127.0.0.1 adclick.g.doubleclick.net
+127.0.0.1 add.f5haber.com
+127.0.0.1 adform.net
+127.0.0.1 adfox.ru
+127.0.0.1 adhood.com
+127.0.0.1 adlure.net
+127.0.0.1 admatic.com.tr
+127.0.0.1 admax.com.tr
+127.0.0.1 admdspc.com
+127.0.0.1 admeld.com
+127.0.0.1 admitlead.ru
+127.0.0.1 admost.com
+127.0.0.1 adnet.com.tr
+127.0.0.1 adnetworkperformance.com
+127.0.0.1 adnexio.com
+127.0.0.1 adnimo.com
+127.0.0.1 adnxs.com
+127.0.0.1 adocean.pl
+127.0.0.1 adplxmd.com
+127.0.0.1 adport.com.tr
+127.0.0.1 adpozitif.com
+127.0.0.1 adpre.com
+127.0.0.1 adprotected.com
+127.0.0.1 adproxy.fyber.com
+127.0.0.1 adrayon.com
+127.0.0.1 adrayon.net
+127.0.0.1 adrazzi.com
+127.0.0.1 adrecover.com
+127.0.0.1 adroll.com
+127.0.0.1 adrttt.com
+127.0.0.1 ads-hl.noktamedya.com.tr
+127.0.0.1 ads-rouge.haber7.com
+127.0.0.1 ads-twitter.com
+127.0.0.1 ads.ak.facebook.com.edgesuite.net
+127.0.0.1 ads.creative-serving.com
+127.0.0.1 ads.dt.mydas.mobi
+127.0.0.1 ads.eu.msn.com
+127.0.0.1 ads.facebook.com
+127.0.0.1 ads.finzoom.com.tr
+127.0.0.1 ads.flurry.com
+127.0.0.1 ads.garga.biz
+127.0.0.1 ads.gercekgundem.com
+127.0.0.1 ads.google.com
+127.0.0.1 ads.ihaberadserver.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 ads.mp.mydas.mobi
+127.0.0.1 ads.msn.com
+127.0.0.1 ads.nexage.com
+127.0.0.1 ads.nordcurrent.com
+127.0.0.1 ads.o-networkaffiliates.com
+127.0.0.1 ads.oyungemisi.com
+127.0.0.1 ads.sabah.com.tr
+127.0.0.1 ads.sharepi.com
+127.0.0.1 ads.skorfikstur.com
+127.0.0.1 ads.videonap.com
+127.0.0.1 ads.webme.com
+127.0.0.1 ads.wordego.com
+127.0.0.1 ads.youtube.com
+127.0.0.1 ads.zamunda.net
+127.0.0.1 ads1-adnow.com
+127.0.0.1 ads1.msads.net
+127.0.0.1 ads1.msn.com
+127.0.0.1 ads2-adnow.com
+127.0.0.1 ads2.mynet.com
+127.0.0.1 ads3.fingersoft.net
+127.0.0.1 ads5.sabah.com.tr
+127.0.0.1 adsbetkoy.com
+127.0.0.1 adscale.de
+127.0.0.1 adserver.adklik.com.tr
+127.0.0.1 adserver.advrstcdn.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 adserver1.adtech.com.tr
+127.0.0.1 adshare3.freedocast.com
+127.0.0.1 adsim.sabah.com.tr
+127.0.0.1 adslidango.com
+127.0.0.1 adsnative.com
+127.0.0.1 adsniper.ru
+127.0.0.1 adsonflags.com
+127.0.0.1 adsp.ciner.com.tr
+127.0.0.1 adsp.haberturk.com
+127.0.0.1 adsrv.eacdn.com
+127.0.0.1 adsymptotic.com
+127.0.0.1 adtech.com
+127.0.0.1 adtech.de
+127.0.0.1 adtrack.king.com
+127.0.0.1 adv.letitbit.net
+127.0.0.1 advertising.com
+127.0.0.1 advoly.com
+127.0.0.1 advrstcdn.com
+127.0.0.1 adwods.com
+127.0.0.1 adworkmedia.com
+127.0.0.1 adworld.com.tr
+127.0.0.1 adworldmedia.com
+127.0.0.1 adx.ligadx.com
+127.0.0.1 adzerk.net
+127.0.0.1 aff.indirdik.com
+127.0.0.1 aff.tamvakti.com
+127.0.0.1 aff2.gittigidiyor.com
+127.0.0.1 aff3.gittigidiyor.com
+127.0.0.1 affiliatenetworkhq.com
+127.0.0.1 affiliates.babylon.com
+127.0.0.1 affiliates.scorbet12.com
+127.0.0.1 affiliateserver.hangikredi.com
+127.0.0.1 affsnetwork.com
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 afyonturkreklam.com
+127.0.0.1 ajansreklam.net
+127.0.0.1 alephd.com
+127.0.0.1 amazingcounters.com
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 amplifinder.biz
+127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
+127.0.0.1 amung.us
+127.0.0.1 analytic.piri.net
+127.0.0.1 analytics.google.com
+127.0.0.1 analytics.live.com
+127.0.0.1 analytics.mobile.walmart.com
+127.0.0.1 analytics.mopub.com
+127.0.0.1 analytics.olay.com.tr
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 androidads23.adcolony.com
+127.0.0.1 api.adintext.net
+127.0.0.1 appengage-video.sponsorpay.com
+127.0.0.1 artemisaffiliates.com
+127.0.0.1 assoc-amazon.com
+127.0.0.1 atemda.com
+127.0.0.1 axbet20.com
+127.0.0.1 axbetb.com
+127.0.0.1 axbetb2.com
+127.0.0.1 b.cdn.md
+127.0.0.1 bam.nr-data.net
+127.0.0.1 bambar.net
+127.0.0.1 banner.kanald.com.tr
+127.0.0.1 banner.setrowid.com
+127.0.0.1 bannerflow.com
+127.0.0.1 banners.tempobet.com
+127.0.0.1 bbelements.com
+127.0.0.1 bcvc.mobi
+127.0.0.1 beelert.com
+127.0.0.1 betburdaaffiliates.com
+127.0.0.1 betendads.com
+127.0.0.1 bizographics.com
+127.0.0.1 bkrtx.com
+127.0.0.1 block.s2block.com
+127.0.0.1 bluekai.com
+127.0.0.1 bnc.lt
+127.0.0.1 bo.facesbet.com
+127.0.0.1 boomads.com
+127.0.0.1 bounceexchange.com
+127.0.0.1 bs.serving-sys.com
+127.0.0.1 bumerang.hurriyet.com.tr
+127.0.0.1 bumerangshowsites.hurriyet.com.tr
+127.0.0.1 buzzreklam.com
+127.0.0.1 casalemedia.com
+127.0.0.1 cdn-highwinds.unityads.unity3d.com
+127.0.0.1 cdn.hiperadverts.com
+127.0.0.1 cdn.html5maker.com
+127.0.0.1 cdn.marjmedya.com
+127.0.0.1 cdn.popcash.net
+127.0.0.1 cdn.smartclick.io
+127.0.0.1 cdn.teads.tv
+127.0.0.1 chartbeat.com
+127.0.0.1 cinerreklam.com.tr
+127.0.0.1 citireklam.com
+127.0.0.1 clck.yandex.com.tr
+127.0.0.1 clickmerkez.com
+127.0.0.1 clicks.hurriyet.com.tr
+127.0.0.1 clicktale.net
+127.0.0.1 cm.g.doubleclick.net
+127.0.0.1 cmsbetconstruct.com
+127.0.0.1 cmt.setrowid.com
+127.0.0.1 cntadvertising.com
+127.0.0.1 codeonclick.com
+127.0.0.1 connextra.com
+127.0.0.1 contextweb.com
+127.0.0.1 coremetrics.com
+127.0.0.1 cpatrendreklam.com
+127.0.0.1 crazyegg.com
+127.0.0.1 creativecdn.com
+127.0.0.1 criteo.com
+127.0.0.1 criteo.net
+127.0.0.1 crowdynews.com
+127.0.0.1 crwdcntrl.net
+127.0.0.1 csi.gstatic.com
+127.0.0.1 cstkk.720pizle.com
+127.0.0.1 cxense.com
+127.0.0.1 d.applovin.com
+127.0.0.1 d.haberler.com
+127.0.0.1 d.turn.com
+127.0.0.1 da-ads.com
+127.0.0.1 demdex.net
+127.0.0.1 device-metrics-us-2.amazon.com
+127.0.0.1 dimml.io
+127.0.0.1 directrev.com
+127.0.0.1 dmtracking2.alibaba.com
+127.0.0.1 doubleclick.net
+127.0.0.1 downads.com
+127.0.0.1 dtscout.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 effectivemeasure.net
+127.0.0.1 engageya.com
+127.0.0.1 ensighten.com
+127.0.0.1 eqads.com
+127.0.0.1 ero-advertising.com
+127.0.0.1 escinteractive.com
+127.0.0.1 etracker.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 exelator.com
+127.0.0.1 eyeviewads.com
+127.0.0.1 faggrim.com
+127.0.0.1 fingersoft-log.scientificrevenue.com
+127.0.0.1 fitanalytics.com
+127.0.0.1 flashtalking.com
+127.0.0.1 flix360.com
+127.0.0.1 flixcar.com
+127.0.0.1 flixfacts.com
+127.0.0.1 fsuseaad1.blob.core.windows.net
+127.0.0.1 fvbaffiliate.com
+127.0.0.1 gemius.pl
+127.0.0.1 getshar.es
+127.0.0.1 gez.io
+127.0.0.1 gigya.com
+127.0.0.1 global.msads.net
+127.0.0.1 go-mpulse.net
+127.0.0.1 go.spaceshipads.com
+127.0.0.1 google-analytics.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads2.g.doubleclick.net
+127.0.0.1 googleadservices.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 gorselcdn.com
+127.0.0.1 gorselpanel.com
+127.0.0.1 gravityrd-services.com
+127.0.0.1 grimex.net
+127.0.0.1 h.online-metrix.net
+127.0.0.1 happilyswitching.net
+127.0.0.1 hepsiburada01.webtrekk.net
+127.0.0.1 histats.com
+127.0.0.1 hit.8digits.com
+127.0.0.1 hit.dogannet.tv
+127.0.0.1 hit.gemius.pl
+127.0.0.1 hit.mynet.com
+127.0.0.1 hitgelsin.com
+127.0.0.1 hits.acunn.com
+127.0.0.1 hizlipop.com
+127.0.0.1 hizlireklam.com
+127.0.0.1 hotjar.com
+127.0.0.1 htpanel.com
+127.0.0.1 hyprshr.com
+127.0.0.1 i.kissmetrics.com
+127.0.0.1 ibillboard.com
+127.0.0.1 ifddigital.com
+127.0.0.1 ilividnewtab.com
+127.0.0.1 img.adnet.com.tr
+127.0.0.1 indexww.com
+127.0.0.1 indirads.org
+127.0.0.1 indirads.work
+127.0.0.1 indirdirek.org
+127.0.0.1 indisancal.com
+127.0.0.1 infolinks.com
+127.0.0.1 init.supersonicads.com
+127.0.0.1 inrool.com
+127.0.0.1 inspectlet.com
+127.0.0.1 installadpro.com
+127.0.0.1 installads.net
+127.0.0.1 installads2.com
+127.0.0.1 iosexy.com
+127.0.0.1 istatistik.milliyet.com.tr
+127.0.0.1 js-agent.newrelic.com
+127.0.0.1 junbi-tracker.com
+127.0.0.1 jwpltx.com
+127.0.0.1 kiosked.com
+127.0.0.1 kissmetrics.com
+127.0.0.1 krxd.net
+127.0.0.1 kurulum.xyz
+127.0.0.1 leetmedia.com
+127.0.0.1 liftdna.com
+127.0.0.1 ligadx.com
+127.0.0.1 ligatus.com
+127.0.0.1 lijit.com
+127.0.0.1 likebtn.com
+127.0.0.1 linkz.net
+127.0.0.1 liveadexchanger.com
+127.0.0.1 liverail.com
+127.0.0.1 load.sumome.com
+127.0.0.1 logo.webservis.gen.tr
+127.0.0.1 m6r.eu
+127.0.0.1 mads.com
+127.0.0.1 madserv.net
+127.0.0.1 madsone.com
+127.0.0.1 makroads.net
+127.0.0.1 marinsm.com
+127.0.0.1 marketo.net
+127.0.0.1 med4ad.com
+127.0.0.1 media.fastclick.net
+127.0.0.1 media.marsaffiliates.com
+127.0.0.1 mediaplex.com
+127.0.0.1 medyaklik.com
+127.0.0.1 medyanetads.com
+127.0.0.1 metaffiliation.com
+127.0.0.1 metrica.yandex.com.tr
+127.0.0.1 metrics34.com
+127.0.0.1 metrika.yandex.com.tr
+127.0.0.1 mgid.com
+127.0.0.1 minireklam.com
+127.0.0.1 mkazanc.com
+127.0.0.1 mlstat.com
+127.0.0.1 mobile-collector.newrelic.com
+127.0.0.1 mobile-crash.newrelic.com
+127.0.0.1 mobile.logs.roku.com
+127.0.0.1 mobilpop.com
+127.0.0.1 mobilup.com
+127.0.0.1 mobilure.com
+127.0.0.1 mobisla.com
+127.0.0.1 mobon.com
+127.0.0.1 mobytrks.com
+127.0.0.1 mookie1.com
+127.0.0.1 msads.net
+127.0.0.1 mtburn.com
+127.0.0.1 mynativeads.com
+127.0.0.1 myswitchads.com
+127.0.0.1 netaffiliation.com
+127.0.0.1 netbookmedia.com
+127.0.0.1 netmng.com
+127.0.0.1 networkad.net
+127.0.0.1 newrelic.com
+127.0.0.1 nexage.com
+127.0.0.1 nr-data.net
+127.0.0.1 nuggad.net
+127.0.0.1 numarapaneli.com
+127.0.0.1 oclaserver.com
+127.0.0.1 oclasrv.com
+127.0.0.1 oix.net
+127.0.0.1 oms.eu
+127.0.0.1 omtrdc.net
+127.0.0.1 onatbilisim.com
+127.0.0.1 onclasrv.com
+127.0.0.1 onclickads.net
+127.0.0.1 onlinewebstat.com
+127.0.0.1 onlinewebstats.com
+127.0.0.1 onroll.com
+127.0.0.1 onscroll.com
+127.0.0.1 ontek-serv.com
+127.0.0.1 onthe.io
+127.0.0.1 openx.net
+127.0.0.1 optimizely.com
+127.0.0.1 oringmedia.com
+127.0.0.1 orjinalmarket.net
+127.0.0.1 orjinalshop.net
+127.0.0.1 outcome.supersonicads.com
+127.0.0.1 oxcdn.com
+127.0.0.1 p.milliyet.com.tr
+127.0.0.1 pagead.l.google.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 parse.ly
+127.0.0.1 parsely.com
+127.0.0.1 partner.googleadservices.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 partnermatrix.com
+127.0.0.1 partnersapi.bilio.com
+127.0.0.1 perabetads.com
+127.0.0.1 perf.mmstat.com
+127.0.0.1 perfectaudience.com
+127.0.0.1 permato.com
+127.0.0.1 petametrics.com
+127.0.0.1 phorm.com.tr
+127.0.0.1 pingdom.net
+127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 pixenka.com
+127.0.0.1 plista.com
+127.0.0.1 pmelon.com
+127.0.0.1 popads.net
+127.0.0.1 popmarker.com
+127.0.0.1 portalciyiz.biz
+127.0.0.1 pradma.com
+127.0.0.1 pre.footprintpredict.com
+127.0.0.1 prfct.co
+127.0.0.1 pro-market.net
+127.0.0.1 programattik.com
+127.0.0.1 projeanaliz.com
+127.0.0.1 promoviral.com
+127.0.0.1 ptreklam.com
+127.0.0.1 ptreklam.com.tr
+127.0.0.1 ptreklamcrv.com.tr
+127.0.0.1 ptreklamssp.com.tr
+127.0.0.1 pub2srv.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 pubmatic.com
+127.0.0.1 pxlad.io
+127.0.0.1 qservz.com
+127.0.0.1 quantserve.com
+127.0.0.1 rdrtr.com
+127.0.0.1 reali.st
+127.0.0.1 realist.gen.tr
+127.0.0.1 regadsgx.com
+127.0.0.1 rek.mobi
+127.0.0.1 rek2.tascatlasa.com
+127.0.0.1 reklam.arabul.com
+127.0.0.1 reklam.bahisanaliz.com
+127.0.0.1 reklam.emlakkulisi.com
+127.0.0.1 reklam.memurlar.net
+127.0.0.1 reklam.milliyet.com.tr
+127.0.0.1 reklam.misli.com
+127.0.0.1 reklam.mynet.com
+127.0.0.1 reklam.softreklam.com
+127.0.0.1 reklam.star.com.tr
+127.0.0.1 reklam.vogel.com.tr
+127.0.0.1 reklam.yonlendir.com
+127.0.0.1 reklam7.com
+127.0.0.1 reklam9.com
+127.0.0.1 reklamaction.com
+127.0.0.1 reklamagaci.com
+127.0.0.1 reklamalan.com
+127.0.0.1 reklambanner.net
+127.0.0.1 reklamdor.com
+127.0.0.1 reklamfit.com
+127.0.0.1 reklamint.com
+127.0.0.1 reklamnative.com
+127.0.0.1 reklamoloji.com
+127.0.0.1 reklamooz.com
+127.0.0.1 reklampazar.com
+127.0.0.1 reklampiksel.com
+127.0.0.1 reklamport.com
+127.0.0.1 reklamsoft.com
+127.0.0.1 reklamstore.com
+127.0.0.1 reklamstore.cubecdn.net
+127.0.0.1 reklamtrk.com
+127.0.0.1 reklamz.com
+127.0.0.1 rekmob.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 reviveservers.com
+127.0.0.1 revotas.com
+127.0.0.1 revsci.net
+127.0.0.1 rpc.tapjoy.com
+127.0.0.1 rrx68giz-06777725bc636d43e50625eef1c38c822ba0ceea-mob.d.aa.online-metrix.net
+127.0.0.1 rrx68giz-474f4415ad616d50d5fca57649d097ad94f4f069-mob.d.aa.online-metrix.net
+127.0.0.1 rs.chip.com.tr
+127.0.0.1 rubiconproject.com
+127.0.0.1 s.adklik.com.tr
+127.0.0.1 s.webtrends.com
+127.0.0.1 s3.adbers.com
+127.0.0.1 sadecereklam.net
+127.0.0.1 sail-horizon.com
+127.0.0.1 savoy.cubecdn.net
+127.0.0.1 savoy.storage.cubecdn.net
+127.0.0.1 say.ac
+127.0.0.1 sayac.hurriyet.com.tr
+127.0.0.1 sayac.onlinewebstat.com
+127.0.0.1 sayyac.net
+127.0.0.1 scarabresearch.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 sdk.adincube.com
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 segmentify.com
+127.0.0.1 serve-sys.com
+127.0.0.1 serving-sys.com
+127.0.0.1 setting.adzcore.com
+127.0.0.1 skinected.com
+127.0.0.1 smaclick.com
+127.0.0.1 smartadserver.com
+127.0.0.1 smetrics.capitalone.com
+127.0.0.1 sociomantic.com
+127.0.0.1 softreklam.com
+127.0.0.1 sohbetpaneli.xyz
+127.0.0.1 soma.smaato.net
+127.0.0.1 sonobi.com
+127.0.0.1 spoods.rce.veeseo.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 statcounter.com
+127.0.0.1 static.everyplay.com
+127.0.0.1 stats.acunn.com
+127.0.0.1 stats.appsflyer.com
+127.0.0.1 stats.unity3d.com
+127.0.0.1 stats.videoseyredin.net
+127.0.0.1 stats.wp.com
+127.0.0.1 statse.webtrendslive.com
+127.0.0.1 stickyadstv.com
+127.0.0.1 strands.com
+127.0.0.1 stroeerdigitalmedia.de
+127.0.0.1 struq.com
+127.0.0.1 studads.com
+127.0.0.1 sunucu7.com
+127.0.0.1 supersonicads-a.akamaihd.net
+127.0.0.1 supert.ag
+127.0.0.1 sw1block.com
+127.0.0.1 swbdds.com
+127.0.0.1 tagon.co
+127.0.0.1 tapfiliate.com
+127.0.0.1 tempobanners.com
+127.0.0.1 terraclicks.com
+127.0.0.1 themediamove.com
+127.0.0.1 tm.zedo.com
+127.0.0.1 top10.yazete.com
+127.0.0.1 tr.hit.gemius.pl
+127.0.0.1 track.vitringez.com
+127.0.0.1 tracker-pm2.erosaffiliates.com
+127.0.0.1 tracking-rce.veeseo.com
+127.0.0.1 tracking.rce.veeseo.com
+127.0.0.1 tracking.redirect.pub
+127.0.0.1 tracking.rodimobi.com
+127.0.0.1 tracking.vitringez.com
+127.0.0.1 trackingapi.cloudapp.net
+127.0.0.1 trackocean.com
+127.0.0.1 tradeadexchange.com
+127.0.0.1 traffic.libsyn.com
+127.0.0.1 trbetmedia.com
+127.0.0.1 triggit.com
+127.0.0.1 truvacdn.com
+127.0.0.1 turkeyrank.com
+127.0.0.1 turn.com
+127.0.0.1 tynt.com
+127.0.0.1 ua.supersonicads.com
+127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 uzmanreklam.com
+127.0.0.1 uzreklam.com
+127.0.0.1 vdaffiliates.com
+127.0.0.1 veeseo.com
+127.0.0.1 videoustu.com
+127.0.0.1 virgul.com
+127.0.0.1 visilabs.com
+127.0.0.1 visilabs.net
+127.0.0.1 visit.hepsiburada.com
+127.0.0.1 webservis.gen.tr
+127.0.0.1 webspectator.com
+127.0.0.1 webtemsilcisi.com
+127.0.0.1 webtrekk.net
+127.0.0.1 widengle.com
+127.0.0.1 widget.boomads.com
+127.0.0.1 winaffiliates.com
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 ww3.smartadserver.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 www.youtube-nocookie.com
+127.0.0.1 x.ligatus.com
+127.0.0.1 xyztanitim.com
+127.0.0.1 ycreklam.com
+127.0.0.1 yenimedya.com.tr
+127.0.0.1 youtube.2cnt.net
+127.0.0.1 yx-ads6.com
