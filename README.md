@@ -10,3 +10,4 @@ TR TÜRKİYE TURKEY
 
 yuuksel@hotmail.com
 
+selamlar
