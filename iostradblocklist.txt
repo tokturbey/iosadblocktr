@@ -5,8 +5,6 @@
 ! This list expires after 500 days
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: yuuksel@hotmail.com
-! Homepage: yuuksel@hotmail.com
-! Forums: yuuksel@hotmail.com
 !
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
@@ -361,7 +359,7 @@ cnn.com##section[data-zone-label="Paid Partner Content"]
 @@||adocean.pl/crossdomain.xml$object-subrequest,domain=~patrz.pl
 @@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
 !-------------------------------------------------------------------
-! --- [ fanboy kaynaklý ] --- 
+! --- [ fanboy kaynaklÃ½ ] --- 
 -gooadsense.
 .com/bannerlar/
 .tr/ads/
