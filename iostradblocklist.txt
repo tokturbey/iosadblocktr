@@ -1,13 +1,13 @@
-# yuuksel ios tr adblock list
-# ------------------------------------------------------------------------
-# çeþitli listelerin ve kendi oluþturduklarýmýn birleþimidir
-# ------------------------------------------------------------------------
-# 15 cemaziyelevvel 1438
-# ------------------------------------------------------------------------
-
-127.0.0.1  localhost
-::1  localhost
-
+[Adblock]
+! yuuksel
+! yuuksel@hotmail.com
+! yuuksel ios tr adblock list
+! ------------------------------------------------------------------------
+! Ã§eÅŸitli listelerin ve kendi oluÅŸturduklarÄ±mÄ±n birleÅŸimidir
+! ------------------------------------------------------------------------
+! 15 cemaziyelevvel 1438
+! ------------------------------------------------------------------------
+!
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
 dirilispostasi.com###main-header
@@ -35,7 +35,7 @@ ekonomi.haber7.com##.slide-link
 ||iys.turkmedya.com.tr/gorseller/yazarfotos/*
 ||timeturk.com/reklamlar/*
 ||yenisoz.com.tr/reklamlar/*
-
+!-------------------------------------------------------------------
 gunes.com##.header_top
 gunes.com###header-menu-wrapper
 habervaktim.com##.base_top.base_position
@@ -117,7 +117,7 @@ http://applybau.com/*
 https://www.yeniakit.com.tr/ads/*
 ||habervaktim.com/d/news/806613.jpg
 ||facebook.com/plugins/likebox.php?href=https://www.facebook.com/cydiaplus&width=402&height=255&colorscheme=light&show_faces=true&show_border=false&stream=false&header=false
-
+!-------------------------------------------------------------------
 /pagead2.
 @@||twimg.com^$image,third-party
 .com/ad/$~image,third-party,domain=~mediaplex.com
@@ -360,8 +360,8 @@ cnn.com##section[data-zone-label="Paid Partner Content"]
 @@||usatoday.com^$generichide
 @@||adocean.pl/crossdomain.xml$object-subrequest,domain=~patrz.pl
 @@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
-
-# --- [ fanboy kaynaklý ] --- #
+!-------------------------------------------------------------------
+! --- [ fanboy kaynaklÄ± ] --- 
 -gooadsense.
 .com/bannerlar/
 .tr/ads/
@@ -408,7 +408,7 @@ cnn.com##section[data-zone-label="Paid Partner Content"]
 /rightreklam1.
 /servad.
 _reklam_125_
-
+!-------------------------------------------------------------------
 ||habervaktim.com/1453
 ||habervaktim.com/hvreklam/
 ||habervaktim.com/rd.swf
@@ -417,7 +417,7 @@ _reklam_125_
 ||appleturk.net^*.swf
 ||haber7.com/load-banner.php
 ||ads-rouge.haber7.com^
-
+!-------------------------------------------------------------------
 ###kayan_reklam
 ###kayan_reklam_sol
 ###kayan_reklamsag
@@ -495,7 +495,7 @@ _reklam_125_
 ##.vSagReklam-1
 ##.vSagReklam-2
 ##.yediyuzads
-
+!-------------------------------------------------------------------
 haber7.com##.social
 ||addnow.com^$third-party
 ||addthis.com^$third-party
@@ -1043,9 +1043,8 @@ haber7.com##.social
 ||zfacts.com^$third-party
 ||zimbio.com/images/badges/$third-party
 ||zoomanalytics.co^$third-party
-
 ||sendtonews.com/player/sidebar.php?$third-party
-
+!-------------------------------------------------------------------
 ||addnow.com^$third-party
 ||addthis.com^$third-party
 ||addthiscdn.com^$domain=~addthis.com
@@ -1295,8 +1294,8 @@ haber7.com##.social
 ||youtube.com/subscribe_widget$third-party
 ||ywidgets.awe.sm^$third-party
 ||zextit.com/partners/$third-party
-
-# --- [ bkrcrc kaynaklý ] --- #
+!-------------------------------------------------------------------
+! --- [ bkrcrc kaynaklÃ½ ] --- !
 127.0.0.1 0638.info
 127.0.0.1 109.73.75.29
 127.0.0.1 109.73.75.3
@@ -1890,4 +1889,3 @@ haber7.com##.social
 127.0.0.1 yenimedya.com.tr
 127.0.0.1 youtube.2cnt.net
 127.0.0.1 yx-ads6.com
-
