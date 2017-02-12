@@ -1,4 +1,5 @@
-[Adblock Plus 1.1]
+[Adblock Plus 2.0]
+! Checksum: 
 ! yuuksel
 ! yuuksel@hotmail.com
 ! yuuksel ios tr adblock list
