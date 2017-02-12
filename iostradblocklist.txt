@@ -4,6 +4,11 @@
 ! 15 Cemaziyelevvel 1438 12 Feb 2017
 ! yuuksel@hotmail.com
 !
+||saglikaktuel.com/d/banner/*
+saglikaktuel.com##.banner.side_banner
+saglikaktuel.com##.banner_code
+saglikaktuel.com##.side_content
+!
 yeniakit.com.tr###masthead-outer
 dirilispostasi.com###owl-ustmanset
 dirilispostasi.com###main-header
