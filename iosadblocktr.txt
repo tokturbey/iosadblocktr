@@ -131,6 +131,6 @@ http://applybau.com/*
 https://www.yeniakit.com.tr/ads/*
 ||habervaktim.com/d/news/806613.jpg
 ||facebook.com/plugins/likebox.php?href=https://www.facebook.com/cydiaplus&width=402&height=255&colorscheme=light&show_faces=true&show_border=false&stream=false&header=false
-
+||www.personelsaglikhaber.net/images/haberler/no_headline.jpg
 
 
