@@ -1,7 +1,8 @@
-[Adblock]
-! Checksum: a7bf986b74ed206e39ea2cc5ce10c3dd 
+[Adblock Plus 2.0]
+! Checksum: lVJU5YoPEylhV2ovlvnNlg
+! Version: 201801151655
 ! yuuksel ios tr adblock list
-! 15 Cemaziyelevvel 1438 12 Feb 2017
+! 27 Rebiülahir 1439 15 Jan 2018
 ! yuuksel@hotmail.com
 !
 ||saglikaktuel.com/d/banner/*
