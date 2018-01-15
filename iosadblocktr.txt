@@ -132,5 +132,15 @@ https://www.yeniakit.com.tr/ads/*
 ||habervaktim.com/d/news/806613.jpg
 ||facebook.com/plugins/likebox.php?href=https://www.facebook.com/cydiaplus&width=402&height=255&colorscheme=light&show_faces=true&show_border=false&stream=false&header=false
 ||www.personelsaglikhaber.net/images/haberler/no_headline.jpg
-
-
+hemsireformasi.com/*
+http://www.saglikaktuel.com/foto-galeri/*
+http://www.saglikaktuel.com/foto-galeriler/*
+http://www.saglikaktuel.com/mobi/gallery_detail.php?*
+http://www.saglikaktuel.com/mobi/gallery_detail.php?id=*
+http://www.saglikaktuel.com/video-galeri/*
+http://www.turkendokrin.org/*
+saglikaktuel.com/d/banner/*
+saglikaktuel.com/foto-galeri/*
+saglikaktuel.com/mobi/gallery_detail.php?*
+www.cizgimedikal.com/*
+||www.personelsaglikhaber.net/images/haberler/no_headline.jpg
