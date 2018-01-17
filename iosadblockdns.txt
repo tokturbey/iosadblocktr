@@ -2,7 +2,7 @@
 # yuuksel ios tr adblock list
 # 27 Rebiülahir 1439 15 Jan 2018
 # yuuksel@hotmail.com
-127.0.0.1 ||saglikaktuel.com/d/banner/*
+127.0.0.1 ||saglikaktuel.com/d/banner/
 127.0.0.1 saglikaktuel.com##.banner.side_banner
 127.0.0.1 saglikaktuel.com##.banner_code
 127.0.0.1 saglikaktuel.com##.side_content
