@@ -121,7 +121,7 @@
 127.0.0.1 ||dirilispostasi.com/images/news/bh_dirilis-postasi-okurlari-kuduse-gidiyor-1477172564.jpg?v=1477323587
 127.0.0.1 ||google.com.tr/logos/doodles/*
 127.0.0.1 ||google.com.tr/logos/doodles/2016/*
-127.0.0.1 ||tbmm.gov.tr/v2_img/header.jpg
+127.0.0.1 www.tbmm.gov.tr/v2_img/header.jpg
 127.0.0.1 tbmm.gov.tr/v2_img/header.jpg
 127.0.0.1 http://www.yeniakit.com.tr/ads/*
 127.0.0.1 ||yeniakit.com.tr/ads/*
