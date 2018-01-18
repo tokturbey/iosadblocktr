@@ -3,4 +3,4 @@
 # 27 Rebiülahir 1439 15 Jan 2018
 # yuuksel@hotmail.com
 #
-http://www.cizgimedikal.com/
+0.0.0.0 ||http://www.cizgimedikal.com/*
