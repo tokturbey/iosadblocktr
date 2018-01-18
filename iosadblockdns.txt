@@ -3,12 +3,4 @@
 # 27 Rebiülahir 1439 15 Jan 2018
 # yuuksel@hotmail.com
 #
-0.0.0.0 ||tbmm.gov.tr/v2_img/header.jpg
-0.0.0.0 ||haberseyret.com/upload/diger/haberseyret.png
-0.0.0.0 ||habervaktim.com/d/news/799610.jpg
-0.0.0.0 ||habervaktim.com/d/news/799875.jpg
-0.0.0.0 ||habervaktim.com/d/news/800333.jpg
-0.0.0.0 ||habervaktim.com/d/news/806613.jpg
-0.0.0.0 ||cdn.yeniakit.com.tr/images/assets/images/logo/logo_20140609064231.jpg
-0.0.0.0 ||www.personelsaglikhaber.net/images/haberler/no_headline.jpg
 0.0.0.0 http://hemsireformasi.com/
