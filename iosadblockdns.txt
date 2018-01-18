@@ -2,5 +2,5 @@
 # yuuksel ios tr adblock list
 # 27 Rebiülahir 1439 15 Jan 2018
 # yuuksel@hotmail.com
-#
-0.0.0.0 ||http://www.cizgimedikal.com/#
+
+0.0.0.0 ||http://www.cizgimedikal.com/
