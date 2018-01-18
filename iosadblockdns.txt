@@ -11,4 +11,4 @@
 0.0.0.0 ||habervaktim.com/d/news/806613.jpg
 0.0.0.0 ||cdn.yeniakit.com.tr/images/assets/images/logo/logo_20140609064231.jpg
 0.0.0.0 ||www.personelsaglikhaber.net/images/haberler/no_headline.jpg
-http://hemsireformasi.com/
+0.0.0.0 http://hemsireformasi.com/
