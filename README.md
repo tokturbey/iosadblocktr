@@ -1,4 +1,4 @@
-# yuuksel
+
 
 İOS ADBLOCK
 
@@ -8,6 +8,6 @@ TR TÜRKİYE TURKEY
 
 12 Feb 2017
 
-yuuksel@hotmail.com
+
 
 ESSELAMUALEYKÜM
